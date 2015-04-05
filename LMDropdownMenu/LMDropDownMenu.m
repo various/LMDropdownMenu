@@ -27,6 +27,8 @@
             if (i == 3) {
                 [self initMainMenuStyle:@"筛选" index:i];
 
+            }else{
+                
             }
         }
     }
